@@ -7,6 +7,11 @@ Transforming ideas into intelligent systems<br>
 # Hello World 👋 , I'm an AI Expert Software Engineer!
 I specialize in Artificial Intelligence, Machine Learning, and Deep Learning Engineering. Currently, I am open to opportunities in AI/ML Research, MLOps, AI Product Development, and cutting-edge AI solutions.
 
+### 🔗 Connect with me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-adamgonzalez.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adamgonzalez.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Adam666565)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-g-7525153a7/)
+
 <table style="border-size:0px">
   <tr >
 <td style="border: none;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90"> Python</td> 
